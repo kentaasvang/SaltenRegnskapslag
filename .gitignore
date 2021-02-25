@@ -1,3 +1,6 @@
 wp-config.php
+
+# ddev
+wp-config-ddev.php
 .ddev/
 
